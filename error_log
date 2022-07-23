@@ -1,0 +1,10 @@
+[02-Jul-2022 08:40:39 America/New_York] PHP Warning:  require(/home/pallvdgl/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pallvdgl/public_html/index.php on line 24
+[02-Jul-2022 08:40:39 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pallvdgl/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pallvdgl/public_html/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/pallvdgl/public_html/index.php on line 24
+[02-Jul-2022 08:41:06 America/New_York] PHP Warning:  require(/home/pallvdgl/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/pallvdgl/public_html/index.php on line 24
+[02-Jul-2022 08:41:06 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pallvdgl/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pallvdgl/public_html/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/pallvdgl/public_html/index.php on line 24
